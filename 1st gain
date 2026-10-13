@@ -1,4 +1,11 @@
 J0742-2822  J0835-4510  J1836-1008  J1838-1046  J2326+6113 - Pulsar names 1st i have to deal with - /lustre_archive/spotlight/data/pulsar_portal
+
+
+cd /lustre_data/spotlight/data/pulsar_fft_pipe_ver1/outfiles/-it contains infield_source_all_copied_files.txt...
+cat infield_source_all_copied_files.txt
+
+
+
 1. PSR_0742-2822 (B0740-28)
 Fil: B0740-28_49_068_20260324_212008_BM0.fil
 DM: 73.756
